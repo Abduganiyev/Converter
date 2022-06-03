@@ -2,16 +2,16 @@ import com.google.gson.*;
 
 import java.io.*;
 import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Scanner;
+import java.net.URLConnection;
+import java.util.*;
 
 public class ConverterDemo {
     public static void main(String[] args) throws IOException {
 
         //refreshData();
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Currencies: USD EUR CNY USZ");
@@ -26,11 +26,10 @@ public class ConverterDemo {
     }
 
     private static void convert(String first, String second,Double amount) throws IOException{
-        List<Currency> list = new LinkedList<>();
         Gson gson = new Gson();
         BufferedReader input = new BufferedReader(new FileReader("src/main/resources/currencies.json"));
 
-        list.addAll(Arrays.asList(gson.fromJson(input, Currency[].class)));
+        List<Currency> list = Arrays.asList(gson.fromJson(input, Currency[].class));
 
         double rate = 0.0;
         double rate2 = 0.0;
@@ -46,12 +45,15 @@ public class ConverterDemo {
                 break;
             }
         }
-        if (rate>0)
-            System.out.printf("%.2f %s",(rate*amount)/rate2,second);
-        else
-            System.out.println("Somthing went wrong!");
 
+        if (first.equalsIgnoreCase("uzs"))
+            System.out.printf("%.2f %s\n", rate2/(amount*1000),second);
+        else if (second.equalsIgnoreCase("uzs")){
+            System.out.printf("%.2f %s\n",rate*amount,second);
+        } else
+            System.out.printf("%.2f %s\n",(rate*amount)/rate2,second);
     }
+
 
     private static void refreshData() throws IOException {
 
@@ -61,15 +63,16 @@ public class ConverterDemo {
         BufferedReader br = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        List<Currency> list = new LinkedList<>();
-        list.addAll(Arrays.asList(gson.fromJson(br, Currency[].class)));
+        List<Currency> list = Arrays.asList(gson.fromJson(br, Currency[].class));
+
         writeToFile(list);
     }
 
     private static void writeToFile(List<Currency> list) throws IOException {
+
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-        BufferedWriter output = new BufferedWriter(new FileWriter("src/main/resources/currencies.json"));
+        FileWriter output = new FileWriter("src/main/resources/currencies.json");
 
         gson.toJson(list,output);
     }
