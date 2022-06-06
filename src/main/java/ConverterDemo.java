@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class ConverterDemo {
     public static void main(String[] args) throws IOException {
 
-        //refreshData();
+        refreshData();
 
         Scanner scanner = new Scanner(System.in);
 
@@ -69,12 +69,14 @@ public class ConverterDemo {
         writeToFile(list);
     }
 
-    private static void writeToFile(List<Currency> list) throws IOException {
-
+    private static void writeToFile(List<Currency> def) {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("src/main/resources/currencies.json"))) {
 
-        FileWriter output = new FileWriter("src/main/resources/currencies.json");
+            gson.toJson(def,bw);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
-        gson.toJson(list,output);
     }
 }

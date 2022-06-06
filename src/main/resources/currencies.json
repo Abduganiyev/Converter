@@ -8,9 +8,9 @@
     "CcyNm_UZC": "АҚШ доллари",
     "CcyNm_EN": "US Dollar",
     "Nominal": "1",
-    "Rate": "10994.67",
-    "Diff": "14.65",
-    "Date": "03.06.2022"
+    "Rate": "11012.06",
+    "Diff": "17.39",
+    "Date": "06.06.2022"
   },
   {
     "id": "21",
@@ -21,9 +21,9 @@
     "CcyNm_UZC": "EВРО",
     "CcyNm_EN": "Euro",
     "Nominal": "1",
-    "Rate": "11752.20",
-    "Diff": "-26.07",
-    "Date": "03.06.2022"
+    "Rate": "11834.66",
+    "Diff": "82.46",
+    "Date": "06.06.2022"
   },
   {
     "id": "57",
@@ -34,9 +34,9 @@
     "CcyNm_UZC": "Россия рубли",
     "CcyNm_EN": "Russian Ruble",
     "Nominal": "1",
-    "Rate": "178.70",
-    "Diff": "-0.64",
-    "Date": "03.06.2022"
+    "Rate": "177.83",
+    "Diff": "-0.87",
+    "Date": "06.06.2022"
   },
   {
     "id": "22",
@@ -47,9 +47,9 @@
     "CcyNm_UZC": "Англия фунт стерлинги",
     "CcyNm_EN": "Pound Sterling",
     "Nominal": "1",
-    "Rate": "13790.61",
-    "Diff": "-33.24",
-    "Date": "03.06.2022"
+    "Rate": "13847.67",
+    "Diff": "57.06",
+    "Date": "06.06.2022"
   },
   {
     "id": "33",
@@ -60,9 +60,9 @@
     "CcyNm_UZC": "Япония иенаси",
     "CcyNm_EN": "Japan Yen",
     "Nominal": "1",
-    "Rate": "84.73",
-    "Diff": "-0.16",
-    "Date": "03.06.2022"
+    "Rate": "84.65",
+    "Diff": "-0.08",
+    "Date": "06.06.2022"
   },
   {
     "id": "6",
@@ -73,9 +73,9 @@
     "CcyNm_UZC": "Озарбайжон манати",
     "CcyNm_EN": "Azerbaijan Manat",
     "Nominal": "1",
-    "Rate": "6471.26",
-    "Diff": "8.62",
-    "Date": "03.06.2022"
+    "Rate": "6481.49",
+    "Diff": "10.23",
+    "Date": "06.06.2022"
   },
   {
     "id": "7",
@@ -86,9 +86,9 @@
     "CcyNm_UZC": "Бангладеш такаси",
     "CcyNm_EN": "Bangladesh Taka",
     "Nominal": "1",
-    "Rate": "123.43",
-    "Diff": "0.16",
-    "Date": "03.06.2022"
+    "Rate": "123.68",
+    "Diff": "0.25",
+    "Date": "06.06.2022"
   },
   {
     "id": "8",
@@ -99,9 +99,9 @@
     "CcyNm_UZC": "Болгария леви",
     "CcyNm_EN": "Bulgarian Lev",
     "Nominal": "1",
-    "Rate": "6008.67",
-    "Diff": "-13.39",
-    "Date": "03.06.2022"
+    "Rate": "6050.91",
+    "Diff": "42.24",
+    "Date": "06.06.2022"
   },
   {
     "id": "9",
@@ -112,9 +112,9 @@
     "CcyNm_UZC": "Баҳрайн динори",
     "CcyNm_EN": "Bahraini Dinar",
     "Nominal": "1",
-    "Rate": "29163.58",
-    "Diff": "38.86",
-    "Date": "03.06.2022"
+    "Rate": "29209.71",
+    "Diff": "46.13",
+    "Date": "06.06.2022"
   },
   {
     "id": "10",
@@ -125,9 +125,9 @@
     "CcyNm_UZC": "Бруней доллари",
     "CcyNm_EN": "Brunei Dollar",
     "Nominal": "1",
-    "Rate": "7994.38",
-    "Diff": "-9.13",
-    "Date": "03.06.2022"
+    "Rate": "8019.27",
+    "Diff": "24.89",
+    "Date": "06.06.2022"
   },
   {
     "id": "11",
@@ -138,9 +138,9 @@
     "CcyNm_UZC": "Бразилия реали",
     "CcyNm_EN": "Brazilian Real",
     "Nominal": "1",
-    "Rate": "2282.52",
-    "Diff": "-37.91",
-    "Date": "03.06.2022"
+    "Rate": "2295.61",
+    "Diff": "13.09",
+    "Date": "06.06.2022"
   },
   {
     "id": "12",
@@ -151,9 +151,9 @@
     "CcyNm_UZC": "Белорус рубли",
     "CcyNm_EN": "Belarusian Ruble",
     "Nominal": "1",
-    "Rate": "3256.14",
-    "Diff": "5.31",
-    "Date": "03.06.2022"
+    "Rate": "3261.29",
+    "Diff": "5.15",
+    "Date": "06.06.2022"
   },
   {
     "id": "13",
@@ -164,9 +164,9 @@
     "CcyNm_UZC": "Канада доллари",
     "CcyNm_EN": "Canadian Dollar",
     "Nominal": "1",
-    "Rate": "8685.26",
-    "Diff": "-0.78",
-    "Date": "03.06.2022"
+    "Rate": "8764.77",
+    "Diff": "79.51",
+    "Date": "06.06.2022"
   },
   {
     "id": "14",
@@ -177,9 +177,9 @@
     "CcyNm_UZC": "Швейцария франки",
     "CcyNm_EN": "Swiss Franc",
     "Nominal": "1",
-    "Rate": "11446.82",
-    "Diff": "27.14",
-    "Date": "03.06.2022"
+    "Rate": "11478.07",
+    "Diff": "31.25",
+    "Date": "06.06.2022"
   },
   {
     "id": "15",
@@ -190,9 +190,9 @@
     "CcyNm_UZC": "Хитой юани",
     "CcyNm_EN": "Yuan Renminbi",
     "Nominal": "1",
-    "Rate": "1647.96",
-    "Diff": "5.65",
-    "Date": "03.06.2022"
+    "Rate": "1653.39",
+    "Diff": "5.43",
+    "Date": "06.06.2022"
   },
   {
     "id": "16",
@@ -203,9 +203,9 @@
     "CcyNm_UZC": "Куба песоси",
     "CcyNm_EN": "Cuban Peso",
     "Nominal": "1",
-    "Rate": "458.11",
-    "Diff": "0.61",
-    "Date": "03.06.2022"
+    "Rate": "458.84",
+    "Diff": "0.73",
+    "Date": "06.06.2022"
   },
   {
     "id": "17",
@@ -216,9 +216,9 @@
     "CcyNm_UZC": "Чехия кронаси",
     "CcyNm_EN": "Czech Koruna",
     "Nominal": "1",
-    "Rate": "475.10",
-    "Diff": "-1.01",
-    "Date": "03.06.2022"
+    "Rate": "479.06",
+    "Diff": "3.96",
+    "Date": "06.06.2022"
   },
   {
     "id": "18",
@@ -229,9 +229,9 @@
     "CcyNm_UZC": "Дания кронаси",
     "CcyNm_EN": "Danish Krone",
     "Nominal": "1",
-    "Rate": "1579.74",
-    "Diff": "-3.35",
-    "Date": "03.06.2022"
+    "Rate": "1590.92",
+    "Diff": "11.18",
+    "Date": "06.06.2022"
   },
   {
     "id": "19",
@@ -242,9 +242,9 @@
     "CcyNm_UZC": "Жазоир динори",
     "CcyNm_EN": "Algerian Dinar",
     "Nominal": "1",
-    "Rate": "75.37",
-    "Diff": "-0.1",
-    "Date": "03.06.2022"
+    "Rate": "75.77",
+    "Diff": "0.4",
+    "Date": "06.06.2022"
   },
   {
     "id": "20",
@@ -255,9 +255,9 @@
     "CcyNm_UZC": "Миср фунти",
     "CcyNm_EN": "Egyptian Pound",
     "Nominal": "1",
-    "Rate": "589.53",
-    "Diff": "-0.16",
-    "Date": "03.06.2022"
+    "Rate": "591.09",
+    "Diff": "1.56",
+    "Date": "06.06.2022"
   },
   {
     "id": "2",
@@ -269,8 +269,8 @@
     "CcyNm_EN": "AF Afghani",
     "Nominal": "1",
     "Rate": "123.74",
-    "Diff": "0.63",
-    "Date": "03.06.2022"
+    "Diff": "0",
+    "Date": "06.06.2022"
   },
   {
     "id": "4",
@@ -281,9 +281,9 @@
     "CcyNm_UZC": "Аргентина песоси",
     "CcyNm_EN": "Argentine Peso",
     "Nominal": "1",
-    "Rate": "91.38",
+    "Rate": "91.41",
     "Diff": "0.03",
-    "Date": "03.06.2022"
+    "Date": "06.06.2022"
   },
   {
     "id": "23",
@@ -294,9 +294,9 @@
     "CcyNm_UZC": "Грузия лариси",
     "CcyNm_EN": "Georgian Lari",
     "Nominal": "1",
-    "Rate": "3677.15",
-    "Diff": "53.38",
-    "Date": "03.06.2022"
+    "Rate": "3732.90",
+    "Diff": "55.75",
+    "Date": "06.06.2022"
   },
   {
     "id": "24",
@@ -307,9 +307,9 @@
     "CcyNm_UZC": "Гонгконг доллари",
     "CcyNm_EN": "Hong Kong Dollar",
     "Nominal": "1",
-    "Rate": "1401.13",
-    "Diff": "1.71",
-    "Date": "03.06.2022"
+    "Rate": "1403.87",
+    "Diff": "2.74",
+    "Date": "06.06.2022"
   },
   {
     "id": "25",
@@ -320,9 +320,9 @@
     "CcyNm_UZC": "Венгрия форинти",
     "CcyNm_EN": "Hungarian Forint",
     "Nominal": "1",
-    "Rate": "29.76",
-    "Diff": "0.04",
-    "Date": "03.06.2022"
+    "Rate": "29.96",
+    "Diff": "0.2",
+    "Date": "06.06.2022"
   },
   {
     "id": "26",
@@ -333,9 +333,9 @@
     "CcyNm_UZC": "Индонезия рупияси",
     "CcyNm_EN": "Rupiah",
     "Nominal": "10",
-    "Rate": "7.59",
-    "Diff": "0.06",
-    "Date": "03.06.2022"
+    "Rate": "7.63",
+    "Diff": "0.04",
+    "Date": "06.06.2022"
   },
   {
     "id": "27",
@@ -346,9 +346,9 @@
     "CcyNm_UZC": "Исроил шекели",
     "CcyNm_EN": "New Israeli Sheqel",
     "Nominal": "1",
-    "Rate": "3294.68",
-    "Diff": "-4.41",
-    "Date": "03.06.2022"
+    "Rate": "3309.01",
+    "Diff": "14.33",
+    "Date": "06.06.2022"
   },
   {
     "id": "28",
@@ -359,9 +359,9 @@
     "CcyNm_UZC": "Ҳиндистон рупияси",
     "CcyNm_EN": "Indian Rupee",
     "Nominal": "1",
-    "Rate": "141.66",
-    "Diff": "0.02",
-    "Date": "03.06.2022"
+    "Rate": "141.85",
+    "Diff": "0.19",
+    "Date": "06.06.2022"
   },
   {
     "id": "29",
@@ -372,9 +372,9 @@
     "CcyNm_UZC": "Ироқ динори",
     "CcyNm_EN": "Iraqi Dinar",
     "Nominal": "1",
-    "Rate": "7.53",
-    "Diff": "0.01",
-    "Date": "03.06.2022"
+    "Rate": "7.55",
+    "Diff": "0.02",
+    "Date": "06.06.2022"
   },
   {
     "id": "30",
@@ -386,8 +386,8 @@
     "CcyNm_EN": "Iranian Rial",
     "Nominal": "10",
     "Rate": "2.62",
-    "Diff": "0.01",
-    "Date": "03.06.2022"
+    "Diff": "0",
+    "Date": "06.06.2022"
   },
   {
     "id": "31",
@@ -398,9 +398,9 @@
     "CcyNm_UZC": "Исландия кронаси",
     "CcyNm_EN": "Iceland Krona",
     "Nominal": "1",
-    "Rate": "85.85",
-    "Diff": "-0.31",
-    "Date": "03.06.2022"
+    "Rate": "86.20",
+    "Diff": "0.35",
+    "Date": "06.06.2022"
   },
   {
     "id": "32",
@@ -411,9 +411,9 @@
     "CcyNm_UZC": "Иордания динори",
     "CcyNm_EN": "Jordanian Dinar",
     "Nominal": "1",
-    "Rate": "15507.29",
-    "Diff": "20.66",
-    "Date": "03.06.2022"
+    "Rate": "15531.82",
+    "Diff": "24.53",
+    "Date": "06.06.2022"
   },
   {
     "id": "5",
@@ -424,9 +424,9 @@
     "CcyNm_UZC": "Австралия доллари",
     "CcyNm_EN": "Australian Dollar",
     "Nominal": "1",
-    "Rate": "7906.27",
-    "Diff": "5.05",
-    "Date": "03.06.2022"
+    "Rate": "7987.05",
+    "Diff": "80.78",
+    "Date": "06.06.2022"
   },
   {
     "id": "34",
@@ -437,9 +437,9 @@
     "CcyNm_UZC": "Қирғиз соми",
     "CcyNm_EN": "Kyrgyzstan Som",
     "Nominal": "1",
-    "Rate": "138.17",
-    "Diff": "3.28",
-    "Date": "03.06.2022"
+    "Rate": "137.65",
+    "Diff": "-0.52",
+    "Date": "06.06.2022"
   },
   {
     "id": "35",
@@ -451,8 +451,8 @@
     "CcyNm_EN": "Riel",
     "Nominal": "1",
     "Rate": "2.71",
-    "Diff": "0.01",
-    "Date": "03.06.2022"
+    "Diff": "0",
+    "Date": "06.06.2022"
   },
   {
     "id": "36",
@@ -463,9 +463,9 @@
     "CcyNm_UZC": "Корея Республикаси вони",
     "CcyNm_EN": "The Korean Republic Won",
     "Nominal": "1",
-    "Rate": "8.81",
-    "Diff": "-0.02",
-    "Date": "03.06.2022"
+    "Rate": "8.84",
+    "Diff": "0.03",
+    "Date": "06.06.2022"
   },
   {
     "id": "37",
@@ -476,9 +476,9 @@
     "CcyNm_UZC": "Қувайт динори",
     "CcyNm_EN": "Kuwaiti Dinar",
     "Nominal": "1",
-    "Rate": "35918.56",
-    "Diff": "47.86",
-    "Date": "03.06.2022"
+    "Rate": "35975.37",
+    "Diff": "56.81",
+    "Date": "06.06.2022"
   },
   {
     "id": "38",
@@ -489,9 +489,9 @@
     "CcyNm_UZC": "Қозоғистон тенгеси",
     "CcyNm_EN": "Kazakhstan Tenge",
     "Nominal": "1",
-    "Rate": "25.26",
-    "Diff": "-0.17",
-    "Date": "03.06.2022"
+    "Rate": "25.33",
+    "Diff": "0.07",
+    "Date": "06.06.2022"
   },
   {
     "id": "39",
@@ -502,9 +502,9 @@
     "CcyNm_UZC": "Лаос киписи",
     "CcyNm_EN": "Lao Kip",
     "Nominal": "1",
-    "Rate": "0.82",
-    "Diff": "0",
-    "Date": "03.06.2022"
+    "Rate": "0.79",
+    "Diff": "-0.03",
+    "Date": "06.06.2022"
   },
   {
     "id": "40",
@@ -515,9 +515,9 @@
     "CcyNm_UZC": "Ливан фунти",
     "CcyNm_EN": "Lebanese Pound",
     "Nominal": "1",
-    "Rate": "7.27",
+    "Rate": "7.28",
     "Diff": "0.01",
-    "Date": "03.06.2022"
+    "Date": "06.06.2022"
   },
   {
     "id": "41",
@@ -528,9 +528,9 @@
     "CcyNm_UZC": "Ливия динори",
     "CcyNm_EN": "Libyan Dinar",
     "Nominal": "1",
-    "Rate": "2306.61",
-    "Diff": "-2.11",
-    "Date": "03.06.2022"
+    "Rate": "2305.32",
+    "Diff": "-1.29",
+    "Date": "06.06.2022"
   },
   {
     "id": "42",
@@ -541,9 +541,9 @@
     "CcyNm_UZC": "Марокаш дирҳами",
     "CcyNm_EN": "Moroccan Dirham",
     "Nominal": "1",
-    "Rate": "1115.85",
-    "Diff": "0.6",
-    "Date": "03.06.2022"
+    "Rate": "1117.87",
+    "Diff": "2.02",
+    "Date": "06.06.2022"
   },
   {
     "id": "43",
@@ -554,9 +554,9 @@
     "CcyNm_UZC": "Молдавия лейи",
     "CcyNm_EN": "Moldovan Leu",
     "Nominal": "1",
-    "Rate": "577.75",
-    "Diff": "0.16",
-    "Date": "03.06.2022"
+    "Rate": "578.67",
+    "Diff": "0.92",
+    "Date": "06.06.2022"
   },
   {
     "id": "44",
@@ -567,9 +567,9 @@
     "CcyNm_UZC": "Мьянма кьяти",
     "CcyNm_EN": "Kyat",
     "Nominal": "1",
-    "Rate": "5.94",
+    "Rate": "5.95",
     "Diff": "0.01",
-    "Date": "03.06.2022"
+    "Date": "06.06.2022"
   },
   {
     "id": "45",
@@ -580,9 +580,9 @@
     "CcyNm_UZC": "Монголия тугрики",
     "CcyNm_EN": "Tugrik",
     "Nominal": "1",
-    "Rate": "3.51",
-    "Diff": "0",
-    "Date": "03.06.2022"
+    "Rate": "3.52",
+    "Diff": "0.01",
+    "Date": "06.06.2022"
   },
   {
     "id": "46",
@@ -593,9 +593,9 @@
     "CcyNm_UZC": "Мексика песоси",
     "CcyNm_EN": "Mexican Peso",
     "Nominal": "1",
-    "Rate": "560.03",
-    "Diff": "2.27",
-    "Date": "03.06.2022"
+    "Rate": "563.30",
+    "Diff": "3.27",
+    "Date": "06.06.2022"
   },
   {
     "id": "47",
@@ -606,9 +606,9 @@
     "CcyNm_UZC": "Малайзия ринггити",
     "CcyNm_EN": "Malaysian Ringgit",
     "Nominal": "1",
-    "Rate": "2503.91",
-    "Diff": "-1.23",
-    "Date": "03.06.2022"
+    "Rate": "2509.01",
+    "Diff": "5.1",
+    "Date": "06.06.2022"
   },
   {
     "id": "48",
@@ -619,9 +619,9 @@
     "CcyNm_UZC": "Норвегия кронаси",
     "CcyNm_EN": "Norwegian Krone",
     "Nominal": "1",
-    "Rate": "1161.01",
-    "Diff": "-10.28",
-    "Date": "03.06.2022"
+    "Rate": "1170.60",
+    "Diff": "9.59",
+    "Date": "06.06.2022"
   },
   {
     "id": "49",
@@ -632,9 +632,9 @@
     "CcyNm_UZC": "Янги Зеландия доллари",
     "CcyNm_EN": "New Zealand Dollar",
     "Nominal": "1",
-    "Rate": "7148.73",
-    "Diff": "-2.56",
-    "Date": "03.06.2022"
+    "Rate": "7206.29",
+    "Diff": "57.56",
+    "Date": "06.06.2022"
   },
   {
     "id": "50",
@@ -645,9 +645,9 @@
     "CcyNm_UZC": "Уммон риали",
     "CcyNm_EN": "Rial Omani",
     "Nominal": "1",
-    "Rate": "28557.58",
-    "Diff": "38.05",
-    "Date": "03.06.2022"
+    "Rate": "28602.75",
+    "Diff": "45.17",
+    "Date": "06.06.2022"
   },
   {
     "id": "51",
@@ -658,9 +658,9 @@
     "CcyNm_UZC": "Филиппин песоси",
     "CcyNm_EN": "Philippine Piso",
     "Nominal": "1",
-    "Rate": "208.72",
-    "Diff": "-0.71",
-    "Date": "03.06.2022"
+    "Rate": "208.35",
+    "Diff": "-0.37",
+    "Date": "06.06.2022"
   },
   {
     "id": "52",
@@ -671,8 +671,307 @@
     "CcyNm_UZC": "Покистон рупияси",
     "CcyNm_EN": "Pakistan Rupee",
     "Nominal": "1",
-    "Rate": "55.66",
-    "Diff": "0.14",
-    "Date": "03.06.2022"
+    "Rate": "55.69",
+    "Diff": "0.03",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "53",
+    "Code": "985",
+    "Ccy": "PLN",
+    "CcyNm_RU": "Злотый",
+    "CcyNm_UZ": "Polsha zlotiysi",
+    "CcyNm_UZC": "Польша злотийси",
+    "CcyNm_EN": "Polish Zloty",
+    "Nominal": "1",
+    "Rate": "2577.07",
+    "Diff": "15.4",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "54",
+    "Code": "634",
+    "Ccy": "QAR",
+    "CcyNm_RU": "Катарский риал",
+    "CcyNm_UZ": "Qatar riali",
+    "CcyNm_UZC": "Қатар риали",
+    "CcyNm_EN": "Qatari Rial",
+    "Nominal": "1",
+    "Rate": "3014.86",
+    "Diff": "3.78",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "55",
+    "Code": "946",
+    "Ccy": "RON",
+    "CcyNm_RU": "Румынский лей",
+    "CcyNm_UZ": "Ruminiya leyi",
+    "CcyNm_UZC": "Руминия лейи",
+    "CcyNm_EN": "Romanian Leu",
+    "Nominal": "1",
+    "Rate": "2394.55",
+    "Diff": "15.99",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "56",
+    "Code": "941",
+    "Ccy": "RSD",
+    "CcyNm_RU": "Сербский динар",
+    "CcyNm_UZ": "Serbiya dinori",
+    "CcyNm_UZC": "Сербия динори",
+    "CcyNm_EN": "Serbian Dinar",
+    "Nominal": "1",
+    "Rate": "100.77",
+    "Diff": "0.65",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "3",
+    "Code": "051",
+    "Ccy": "AMD",
+    "CcyNm_RU": "Армянский драм",
+    "CcyNm_UZ": "Armaniston drami",
+    "CcyNm_UZC": "Арманистон драми",
+    "CcyNm_EN": "Armenian Dram",
+    "Nominal": "1",
+    "Rate": "24.66",
+    "Diff": "0",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "58",
+    "Code": "682",
+    "Ccy": "SAR",
+    "CcyNm_RU": "Саудовский риял",
+    "CcyNm_UZ": "Saudiya Arabistoni riali",
+    "CcyNm_UZC": "Саудия Арабистони риали",
+    "CcyNm_EN": "Saudi Riyal",
+    "Nominal": "1",
+    "Rate": "2935.92",
+    "Diff": "4.63",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "59",
+    "Code": "938",
+    "Ccy": "SDG",
+    "CcyNm_RU": "Суданский фунт",
+    "CcyNm_UZ": "Sudan funti",
+    "CcyNm_UZC": "Судан фунти",
+    "CcyNm_EN": "Sudanese Pound",
+    "Nominal": "1",
+    "Rate": "24.65",
+    "Diff": "0.04",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "60",
+    "Code": "752",
+    "Ccy": "SEK",
+    "CcyNm_RU": "Шведская крона",
+    "CcyNm_UZ": "Shvetsiya kronasi",
+    "CcyNm_UZC": "Швеция кронаси",
+    "CcyNm_EN": "Swedish Krona",
+    "Nominal": "1",
+    "Rate": "1133.30",
+    "Diff": "11.28",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "61",
+    "Code": "702",
+    "Ccy": "SGD",
+    "CcyNm_RU": "Сингапурский доллар",
+    "CcyNm_UZ": "Singapur dollari",
+    "CcyNm_UZC": "Сингапур доллари",
+    "CcyNm_EN": "Singapore Dollar",
+    "Nominal": "1",
+    "Rate": "8019.27",
+    "Diff": "24.89",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "62",
+    "Code": "760",
+    "Ccy": "SYP",
+    "CcyNm_RU": "Сирийский фунт",
+    "CcyNm_UZ": "Suriya funti",
+    "CcyNm_UZC": "Сурия фунти",
+    "CcyNm_EN": "Syrian Pound",
+    "Nominal": "1",
+    "Rate": "4.38",
+    "Diff": "0",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "63",
+    "Code": "764",
+    "Ccy": "THB",
+    "CcyNm_RU": "Бат",
+    "CcyNm_UZ": "Tailand bati",
+    "CcyNm_UZC": "Таиланд бати",
+    "CcyNm_EN": "Baht",
+    "Nominal": "1",
+    "Rate": "321.75",
+    "Diff": "1.67",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "64",
+    "Code": "972",
+    "Ccy": "TJS",
+    "CcyNm_RU": "Сомони",
+    "CcyNm_UZ": "Tojikiston somonisi",
+    "CcyNm_UZC": "Тожикистон сомониси",
+    "CcyNm_EN": "Tajikistan Somoni",
+    "Nominal": "1",
+    "Rate": "983.22",
+    "Diff": "16.66",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "65",
+    "Code": "934",
+    "Ccy": "TMT",
+    "CcyNm_RU": "Новый туркменский манат",
+    "CcyNm_UZ": "Turkmaniston manati",
+    "CcyNm_UZC": "Туркманистон манати",
+    "CcyNm_EN": "Turkmenistan New Manat",
+    "Nominal": "1",
+    "Rate": "3150.80",
+    "Diff": "4.97",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "66",
+    "Code": "788",
+    "Ccy": "TND",
+    "CcyNm_RU": "Тунисский динар",
+    "CcyNm_UZ": "Tunis dinori",
+    "CcyNm_UZC": "Тунис динори",
+    "CcyNm_EN": "Tunisian Dinar",
+    "Nominal": "1",
+    "Rate": "3648.79",
+    "Diff": "19.11",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "67",
+    "Code": "949",
+    "Ccy": "TRY",
+    "CcyNm_RU": "Турецкая лира",
+    "CcyNm_UZ": "Turkiya lirasi",
+    "CcyNm_UZC": "Туркия лираси",
+    "CcyNm_EN": "Turkish Lira",
+    "Nominal": "1",
+    "Rate": "667.23",
+    "Diff": "-0.41",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "68",
+    "Code": "980",
+    "Ccy": "UAH",
+    "CcyNm_RU": "Гривна",
+    "CcyNm_UZ": "Ukraina grivnasi",
+    "CcyNm_UZC": "Украина гривнаси",
+    "CcyNm_EN": "Ukrainian Hryvnia",
+    "Nominal": "1",
+    "Rate": "374.56",
+    "Diff": "2.16",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "1",
+    "Code": "784",
+    "Ccy": "AED",
+    "CcyNm_RU": "Дирхам ОАЭ",
+    "CcyNm_UZ": "BAA dirhami",
+    "CcyNm_UZC": "БАА дирҳами",
+    "CcyNm_EN": "UAE Dirham",
+    "Nominal": "1",
+    "Rate": "2998.03",
+    "Diff": "4.74",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "70",
+    "Code": "858",
+    "Ccy": "UYU",
+    "CcyNm_RU": "Уругвайское песо",
+    "CcyNm_UZ": "Urugvay pesosi",
+    "CcyNm_UZC": "Уругвай песоси",
+    "CcyNm_EN": "Peso Uruguayo",
+    "Nominal": "1",
+    "Rate": "274.96",
+    "Diff": "-0.49",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "71",
+    "Code": "928",
+    "Ccy": "VES",
+    "CcyNm_RU": "Венесуэльский боливар",
+    "CcyNm_UZ": "Venesuela bolivari",
+    "CcyNm_UZC": "Венесуэла боливари",
+    "CcyNm_EN": "Bolívar",
+    "Nominal": "1",
+    "Rate": "2153.15",
+    "Diff": "-9.37",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "72",
+    "Code": "704",
+    "Ccy": "VND",
+    "CcyNm_RU": "Донг",
+    "CcyNm_UZ": "Vetnam dongi",
+    "CcyNm_UZC": "Вьетнам донги",
+    "CcyNm_EN": "Dong",
+    "Nominal": "10",
+    "Rate": "4.75",
+    "Diff": "0.01",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "73",
+    "Code": "960",
+    "Ccy": "XDR",
+    "CcyNm_RU": "СДР",
+    "CcyNm_UZ": "SDR",
+    "CcyNm_UZC": "СДР",
+    "CcyNm_EN": "SDR",
+    "Nominal": "1",
+    "Rate": "14844.59",
+    "Diff": "11.24",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "74",
+    "Code": "886",
+    "Ccy": "YER",
+    "CcyNm_RU": "Йеменский риал",
+    "CcyNm_UZ": "Yaman riali",
+    "CcyNm_UZC": "Яман риали",
+    "CcyNm_EN": "Yemeni Rial",
+    "Nominal": "1",
+    "Rate": "44.01",
+    "Diff": "0.06",
+    "Date": "06.06.2022"
+  },
+  {
+    "id": "75",
+    "Code": "710",
+    "Ccy": "ZAR",
+    "CcyNm_RU": "Рэнд",
+    "CcyNm_UZ": "Janubiy Afrika randi",
+    "CcyNm_UZC": "Жанубий Африка ранди",
+    "CcyNm_EN": "Rand",
+    "Nominal": "1",
+    "Rate": "712.27",
+    "Diff": "4.29",
+    "Date": "06.06.2022"
   }
-  ]
+]
