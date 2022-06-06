@@ -30,7 +30,7 @@ public class ConverterDemo {
         Gson gson = new Gson();
         BufferedReader input = new BufferedReader(new FileReader("src/main/resources/currencies.json"));
 
-        List<Currency> list = Arrays.asList(gson.fromJson(input, Currency[].class));
+        Currency[] list = gson.fromJson(input, Currency[].class);
 
         double rate = 0.0;
         double rate2 = 0.0;
